@@ -13,7 +13,7 @@ A complete authentication system with JWT tokens, httpOnly cookies, and protecte
 
 ## 🛠️ Tech Stack
 
-**Backend:** Node.js, Express.js, JWT, bcryptjs ;
+**Backend:** Node.js, Express.js, JWT, bcryptjs ||
 **Frontend:** React, React Router, Axios, Context API
 
 ## 📦 Installation
